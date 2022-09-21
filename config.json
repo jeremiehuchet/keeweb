@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "locale": "fr",
+    "dropbox": false,
+    "webdav": false,
+    "gdrive": true,
+    "gdriveClientId": "31074521735-e67q5lmfhmj2loomjafiiitf0934eoni.apps.googleusercontent.com",
+    "gdriveClientSecret": "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",
+    "onedrive": false,
+    "msteams": false
+  }
+}
